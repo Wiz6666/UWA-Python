@@ -136,9 +136,4 @@ def main(csvfile):
     dict2 = task2(data)
     return dict1, dict2
 
-'''
-COMMENT:
-I make the dictionaries for population and land area in main function so I don't need to do it again later
-I also add some error handlings in main function that I thought it may happen.
-'''
 
